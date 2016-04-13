@@ -2,6 +2,7 @@ name: Dream Hat
 favicon: null
 layout_spectrum: 0.96935
 typography_spectrum: 0.11103
+title: Dream Hat
 cta:
   domain: null
   bucket: null
